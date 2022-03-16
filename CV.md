@@ -25,3 +25,59 @@ But in same time I could move faster if my weak sides doesn't exist. How I think
 - wish of knowledge, wish of know as much as possible make me learn a lot of sources in the same time about the one topic. This situation entails confusion in my mind and I should to come back to the start of topic.
 
 I believe that education in rs-school help me to reach my goal, teach me how to manage my strong and weak sides like a front-end developer.
+
+## Skills
+
+* HTML
+* CSS / SASS
+* JavaScript (basics and JQuery)
+* Git
+* BEM
+* VSCode, Figma, Adobe Photoshop, Avocode
+
+## Code example
+
+**Transportation on vacation** KATA from [Codewars](https://www.codewars.com/kata/568d0dd208ee69389d000016):
+_After a hard quarter in the office you decide to get some rest on a vacation. So you will book a flight for you and your girlfriend and try to leave all the mess behind you. You will need a rental car in order for you to get around in your vacation. The manager of the car rental makes you some good offers. Every day you rent the car costs $40. If you rent the car for 7 or more days, you get $50 off your total. Alternatively, if you rent the car for 3 or more days, you get $20 off your total. Write a code that gives out the total amount for different days(d)._
+
+```
+        function rentalCarCost(d) {
+  
+            let price = d * 40;
+  
+            if (d >= 7) {
+  
+                price -= 50;  
+    
+            } else if (d >= 3) {
+  
+                price -= 20;
+    
+            }
+  
+            return price;
+    
+        }
+```
+
+## Work Experience
+
+By now I don't have commercial work experience, but I realized some little home projects:
+
+* [Meditation App](https://marinicheva.github.io/meditation-app/)
+* [Hover Board](https://marinicheva.github.io/hover-board/)
+* [Slider](https://marinicheva.github.io/Beautiful-slider/)
+* [Simple gallery](https://marinicheva.github.io/simple-gallery/)
+* [Drag-Drop board](https://marinicheva.github.io/drag-drop/)
+
+## Education
+
+* Higher economic (2007-2013) - Finance and credit
+* Professional retraining in the direction of web application development (september - october 2021)
+* Udemy JavaScript + React (in progress)
+
+## Languages
+
+Russian: native
+
+English: A2+
